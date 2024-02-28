@@ -1,10 +1,6 @@
 import streamlit as st
-import numpy as np
 import pandas as pd
 import plotly.express as px
-import seaborn as sns
-import matplotlib.pyplot as plt
-import altair as alt
 
 
 # Membaca file CSV
